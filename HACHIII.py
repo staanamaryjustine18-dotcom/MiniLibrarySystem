@@ -77,4 +77,4 @@ def student_b_append(book_title):
     print(f"Student B: Appended '{book_title}' to log.")
 
     #Appending
-    
+    #Append
