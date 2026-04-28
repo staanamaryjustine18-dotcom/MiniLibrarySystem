@@ -75,3 +75,6 @@ def student_b_append(book_title):
     with open(PROJECT_FILE, "a") as file:
         file.write(f"Book Added: {book_title}\n")
     print(f"Student B: Appended '{book_title}' to log.")
+
+    #Appending
+    
